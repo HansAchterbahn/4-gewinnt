@@ -6,5 +6,4 @@ Viel Spaß beim ausprobieren und erweitern!
 Blog:  
 https://aetzenloetenprogrammieren.blogspot.de/2016/06/4-gewinnt-auf-led-matrix-mit-raspberry.html
 
-Video:  
-https://www.youtube.com/watch?v=UU7TQ19X6Fk
+[![Youtube Video: 4-Gewinnt auf LED-Matrix mit Raspberry Pi](http://img.youtube.com/vi/UU7TQ19X6Fk/0.jpg)](http://www.youtube.com/watch?v=UU7TQ19X6Fk "4-Gewinnt auf LED-Matrix mit Raspberry Pi")
