@@ -1,4 +1,4 @@
-# 4 Gewinnt
+# 4 Gewinnt mit LED Matrix und Raspberry Pi
 
 Das hier liegende Projekt ist ein 4 Gewinnt Spiel. Es funktioniert mit Raspberry Pi und einer LED Matrix. Eine genaue Beschreibung des Projekts findet ihr in dem Ordner *Dokumentaton* oder auf meinem Blog. 
 Viel Spaß beim ausprobieren und erweitern!  
